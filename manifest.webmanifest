@@ -1,0 +1,16 @@
+{
+  "name": "Hollow Signal",
+  "short_name": "Hollow Signal",
+  "description": "Paranormal field kit: EMF meter, spirit radar, spirit box with EVP recorder, ghost cam and spirit board.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0b0a",
+  "theme_color": "#0d0b0a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
